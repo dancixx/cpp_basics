@@ -1,6 +1,4 @@
-#include <iostream> // print to the console
-#include "sum.cpp"
-#include "name.cpp"
+#include <iostream>
 
 int main()
 {
