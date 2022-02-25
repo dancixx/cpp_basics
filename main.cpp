@@ -1,9 +1,12 @@
 #include <iostream>
-#include "operations.cpp"
+#include "arrays.cpp"
 
 int main()
 {
-    precedence();
+    arrays();
+
+    // std::cout << sizeof(size_t) << std::endl;
     // message to operating system that the main executed
     return 0;
 }
+ 
