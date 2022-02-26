@@ -1,9 +1,9 @@
 #include <iostream>
-#include "arrays.cpp"
+#include "pointers.cpp"
 
 int main()
 {
-    // std::cout << sizeof(size_t) << std::endl;
+    pointers();
     // message to operating system that the main executed
     return 0;
 }
